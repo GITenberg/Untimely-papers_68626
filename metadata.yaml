@@ -1,5 +1,8 @@
 _repo: Untimely-papers_68626
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68626-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourne, Randolph Silliman
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3958
     wikipedia: https://en.wikipedia.org/wiki/James_Oppenheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68626#Untimely-papers
 gutenberg_issued: '2022-07-28'
 identifiers:
   gutenberg: '68626'
